@@ -8,7 +8,7 @@
 
 #### Clone this repo to your machine.
 
-
+https://github.com/tawakkal12/Three-tier-application-deployment-.git
 
 ### Step 2
  
